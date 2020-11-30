@@ -1,17 +1,10 @@
 # Docker Image for Zentao
-update to 12.5.stable
 
-update to 12.4.4
+update to 12.5.stable  2020.11.30
 
-[![Docker Build Status](https://img.shields.io/docker/build/idoop/zentao.svg)](https://hub.docker.com/r/idoop/zentao/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/idoop/zentao.svg)](https://hub.docker.com/r/idoop/zentao/)
-[![Docker Automated build](https://img.shields.io/docker/automated/idoop/zentao.svg)](https://hub.docker.com/r/idoop/zentao/)
-[![ImageLayers Size](https://img.shields.io/microbadger/image-size/idoop/zentao/latest.svg)](https://hub.docker.com/r/idoop/zentao/)
-[![ImageLayers Layers](https://img.shields.io/microbadger/layers/idoop/zentao/latest.svg)](https://hub.docker.com/r/idoop/zentao/)
-[![DockerHub Badge](https://dockeri.co/image/idoop/zentao)](https://hub.docker.com/r/zhangsean/zentao)
-Auto build docker image for zentao(禅道),include open source edition and pro edition.
+update to 12.4.4 -
 
-DockerHub:[https://hub.docker.com/r/idoop/zentao/](https://hub.docker.com/r/idoop/zentao/)
+DockerHub:[https://hub.docker.com/r/yueyanglouji/zentao/](https://hub.docker.com/r/yueyanglouji/zentao/)
 
 Office Support:[http://www.zentao.net/](http://www.zentao.net/)
 ### Tags
