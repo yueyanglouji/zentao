@@ -1,4 +1,5 @@
 # Docker Image for Zentao
+update to 12.5.stable
 
 update to 12.4.4
 
