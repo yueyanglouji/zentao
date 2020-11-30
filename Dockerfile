@@ -2,9 +2,9 @@ FROM buildpack-deps:18.04-curl
 MAINTAINER Swire Chen <idoop@msn.cn>
 
 ENV ZENTAO_VER=12.5
-ENV VER_NAME=stable
+ENV SUB_VER=.stable
 
-ARG ZENTAO_URL=http://dl.cnezsoft.com/zentao/${ZENTAO_VER}/ZenTaoPMS.${ZENTAO_VER}${VER_NAME}.zbox_64.tar.gz
+ARG ZENTAO_URL=http://dl.cnezsoft.com/zentao/${ZENTAO_VER}/ZenTaoPMS.${ZENTAO_VER}${SUB_VER}.zbox_64.tar.gz
 ADD https://raw.githubusercontent.com/easysoft/zentaopms/master/www/upgrade.php.tmp /tmp/upgrade.php
 # in use http proxy, before run build, cmd run <curl https://raw.githubusercontent.com/easysoft/zentaopms/master/www/upgrade.php.tmp -o upgrade.php.tmp>
 # ADD upgrade.php.tmp /tmp/upgrade.php
