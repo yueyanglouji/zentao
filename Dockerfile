@@ -1,7 +1,7 @@
 FROM buildpack-deps:18.04-curl 
 MAINTAINER Swire Chen <idoop@msn.cn>
 
-ENV ZENTAO_VER=12.5.2
+ENV ZENTAO_VER=12.5.3
 ENV SUB_VER=
 #ENV SUB_VER=.stable
 
