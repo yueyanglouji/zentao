@@ -1,5 +1,7 @@
 # Docker Image for Zentao
 
+update to 12.5.2  2020.02.08
+
 update to 12.5.1  2020.12.03
 
 update to 12.5.stable  2020.11.30
